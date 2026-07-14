@@ -32,6 +32,13 @@ A training-free alternative: severity and other clinical metadata are injected d
 - `StaticDynamic.ipynb` — Zero-Shot / Static / Dynamic prompting (STEAD-PE)
 - `Multi-Model.py` — selects the best response across multiple fine-tuned models
 
+## Publications
+ 
+- **Severity-Based Curriculum Learning Strategy for Arabic Medical Text Generation** — Accepted at ICTIS 2026 and published by Springer. [https://doi.org/10.48550/arXiv.2604.06365](https://doi.org/10.48550/arXiv.2604.06365)
+- **Severity-Aware Weighted Loss for Arabic Medical Text Generation** — Accepted at ICTIS 2026 and published by Springer. [https://doi.org/10.48550/arXiv.2604.06346](https://doi.org/10.48550/arXiv.2604.06346)
+- **Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation** — Accepted at IMSA 2026 & published by IEEE. [https://arxiv.org/abs/2606.05510](https://arxiv.org/abs/2606.05510)
+- **STEAD-PE: A Structured Static-Dynamic PE Framework for Arabic Medical Response Generation** — under review at ACM Transactions on Asian and Low-Resource Language Information Processing.
+
 ## Disclaimer
 
 This project is a research/academic effort exploring severity-aware NLP methods for Arabic medical text generation. It is not a certified medical device and generated responses should not replace professional medical advice.
